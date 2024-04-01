@@ -1,1 +1,1 @@
-# packet_sniffing_tool
+This is a simple Python program that can be used as a packet sniffing tool.
